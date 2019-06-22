@@ -1,0 +1,44 @@
+#button-addon2,#btn-sh{
+	float: right;
+}
+nav{
+	border-bottom: 1px solid #cecece;
+}
+.container {
+  display: block;
+  width: 600px;
+  margin: 0 auto 0;
+  border:1px solid #cecece;
+  border-top: 0px;
+}
+#btn-sh{
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+li > input[type="checkbox"] {
+  margin: 0 10px;
+  position: relative;
+  top: 1.45px;
+}
+ul > button {
+  float:left;
+}
+h5 {
+
+  border-bottom: 2px solid #333;
+  padding: 10px 0 10px;
+  text-transform: uppercase;
+}
+#compShowToDoList label {
+  text-decoration: line-through;
+  color: #888;
+}
+
+#incompShowToDoList >.list-group-item:last-child {
+margin-bottom: 1rem;
+}
+#compShowToDoList >.list-group-item:last-child {
+margin-bottom: 20px;
+}
+
